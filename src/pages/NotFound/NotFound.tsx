@@ -1,7 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import {NotFoundStyling} from './NotFoundStyled.styled.ts';
-import NotFoundSVG from './components/NotFoundSVG'
 
 const NotFound: React.FC = () => {
     const navigate = useNavigate();
