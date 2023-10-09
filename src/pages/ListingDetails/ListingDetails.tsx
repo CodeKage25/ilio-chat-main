@@ -5,7 +5,7 @@ import GalleryGrid from "./components/GalleryGrid";
 //import classes from "./ListingDetails.module.css";
 import GalleryHeader from "./components/GalleryHeader";
 import Description from "~/components/shared/Description";
-import ProfileLogo from "~/components/shared/ProfileLogo";
+import ProfileLogo from "~/components/ProfileLogo";
 import Details from "./components/Details";
 import CoverImage from "./components/CoverImage";
 import Report from "~/pages/ListingDetails/ListingReport/Report";

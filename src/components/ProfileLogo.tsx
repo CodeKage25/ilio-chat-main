@@ -2,7 +2,7 @@ import { useEffect, useState, createRef } from "react";
 //import classes from "~/components/ProfileLogo.module.css";
 import { useAppSelector } from "~/features/hooks";
 import { Link } from "react-router-dom";
-import { ChipStyle } from "./ChipStyle.styled";
+import { ChipStyle } from "./shared/ChipStyle.styled";
 import imm from "../image/location.svg";
 import { ProfileStyle } from "./ProfileLogoStyle.styled";
 interface ProfileLogoProps extends ChipProps {
